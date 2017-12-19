@@ -18,6 +18,7 @@ class DeckList extends React.Component {
 
     componentDidMount() {
         const decks = getDecks();
+        //AsyncStorage.clear();
         this.props.receiveEntries(decks);
     }
 
@@ -40,13 +41,13 @@ class DeckList extends React.Component {
     render() {
         const {decks} = this.props;
         const {navigate} = this.props.navigation;
+        //console.log('DECKS => ', decks);
         return (
             <View style={{flex: 1, backgroundColor: '#333'}}>
                 <Image blurRadius={0} source={require('../assets/desk-800x533.jpg')} style={styles.imageStyle}/>
                 <View style={styles.viewHeader}>
                     <View style={{backgroundColor: 'transparent'}}>
-                        <Text
-                            style={[styles.heading, styles.textHeader]}>HELLO {this.firstName()}</Text>
+                        <Text style={[styles.heading, styles.textHeader]}>HELLO {this.firstName()}</Text>
                         <Text style={[styles.text, {fontWeight: '100'}]}>Choose your challenge</Text>
                     </View>
                 </View>

@@ -21,6 +21,10 @@ class EntryDeck extends Component {
             questions: []
         };
         const key = this.state.text.toString();
+        if (this.props.decks.hasOwnProperty(key)) {
+            alert(`Deck with the name ${key} already exists.`);
+            return
+        }
         this.props.addEntry({entry,key});
         this.props.navigation.goBack();
     };
@@ -41,6 +45,8 @@ class EntryDeck extends Component {
                         onChangeText={(text) => this.setState({text})}
                         allowFontScaling={true}
                         autoFocus={true}
+                        placeholder={'Deck title'}
+                        placeholderTextColor={'#999'}
                     />
                     <TouchableOpacity
                         disabled={this.state.text === ''}
@@ -59,7 +65,7 @@ class EntryDeck extends Component {
 
 function mapStateToProps (state) {
     return {
-        decks: state.decks
+        decks: state
     }
 }
 

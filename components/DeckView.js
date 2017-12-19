@@ -18,8 +18,11 @@ class DeckView extends Component {
     });
 
     render() {
-        console.log(this.props);
-        const {cards,deckName} = this.props.navigation.state.params;
+        const {deckName} = this.props.navigation.state.params;
+        const numberOfQuestions = this.props.decks[deckName].questions.length;
+        const stringToDisplay = (numberOfQuestions === 0 || numberOfQuestions > 1)
+            ? `${numberOfQuestions} CARDS`
+            : `${numberOfQuestions} CARD`;
         return (
             <View style={styles.container}>
                 <Text></Text>
@@ -27,7 +30,7 @@ class DeckView extends Component {
                     {deckName}
                 </Text>
                 <Text style={styles.text}>
-                    {cards}
+                    {stringToDisplay}
                 </Text>
                 <MaterialCommunityIcons
                     style={{textAlign: 'center'}}
@@ -35,14 +38,12 @@ class DeckView extends Component {
                     color={'#fff'}
                     size={100}/>
                 <View>
-                    <TouchableOpacity
-                        style={styles.primaryButton}>
+                    <TouchableOpacity style={styles.primaryButton}>
                         <Text style={styles.buttonText}>Start quiz</Text>
                     </TouchableOpacity>
                     <TouchableOpacity
                         style={styles.secondaryButton}
-                        onPress={() => this.props.navigation.navigate('EntryQuestions')}
-                    >
+                        onPress={() => this.props.navigation.navigate('EntryQuestions',{deckName: deckName})}>
                         <Text style={styles.buttonText}>Add new question</Text>
                     </TouchableOpacity>
                 </View>

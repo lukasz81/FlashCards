@@ -1,6 +1,6 @@
 export const DECKS_STORAGE_KEY = 'flashcards:decks';
 export function getDecks() {
-    const decks = {
+    return {
         'React': {
             title: 'React',
             questions: [
@@ -42,5 +42,4 @@ export function getDecks() {
             ]
         }
     };
-    return decks;
 }

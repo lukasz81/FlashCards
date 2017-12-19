@@ -40,7 +40,7 @@ export default class App extends React.Component {
 const header = {
     headerTintColor: '#fff',
     headerStyle: {
-        backgroundColor: '#333'
+        backgroundColor: '#333333'
     }
 };
 

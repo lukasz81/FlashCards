@@ -9,7 +9,7 @@ export default styles = StyleSheet.create({
         alignContent: 'center',
         backgroundColor: '#5fba7d',
         padding: 20,
-        marginBottom: 20,
+        marginBottom: 10,
         marginTop: 20,
         borderRadius: 8
     },
@@ -20,7 +20,7 @@ export default styles = StyleSheet.create({
         borderWidth: 1,
         padding: 20,
         marginBottom: 20,
-        marginTop: 20,
+        marginTop: 10,
         borderRadius: 8
     },
     buttonText: {

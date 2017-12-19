@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import {View, Text, KeyboardAvoidingView, TextInput, TouchableOpacity} from 'react-native';
 import styles from '../styles';
-import { connect } from 'react-redux'
-import { addEntry } from '../actions'
+import { connect } from 'react-redux';
+import { addCard } from '../actions';
 
 
 class EntryQuestions extends Component {
@@ -14,41 +14,37 @@ class EntryQuestions extends Component {
         };
     }
     onSubmit = () => {
-        const entry = {
-            title: this.state.text,
-            questions: []
-        };
-        const key = this.state.text.toString();
-        this.props.addEntry({entry,key});
+        const card = [this.state];
+        const key = this.props.navigation.state.params.deckName.toString();
+        this.props.addCard({card,key});
         this.props.navigation.goBack();
     };
     render() {
-        console.log(this.state);
         return (
             <View style={{flex: 1, backgroundColor: '#333'}}>
-                <Text></Text>
-                <Text style={[styles.textHeader,styles.heading]}>
-                    You are adding new question and answer to the card.
-                </Text>
-                <Text style={styles.textHeader}>
-                    What should they be?
-                </Text>
-                <KeyboardAvoidingView behavior='padding' style={styles.container}>
+                <View style={{flex: 0.5}}>
+                    <Text></Text>
+                    <Text style={[styles.textHeader,styles.heading]}>
+                        You are adding new question and answer to the card.
+                    </Text>
+                </View>
+                <KeyboardAvoidingView behavior='padding' style={[styles.container,{flex:0.5}]}>
                     <TextInput
                         style={styles.newDeckInput}
                         onChangeText={(question) => this.setState({question: question})}
                         allowFontScaling={true}
-                        defaultValue={'Add question'}
+                        placeholder={'Add question'}
+                        placeholderTextColor={'#999'}
 
                     />
                     <TextInput
                         style={styles.newDeckInput}
                         onChangeText={(answer) => this.setState({answer: answer})}
-                        defaultValue={'Add answer'}
+                        placeholder={'Add answer'}
+                        placeholderTextColor={'#999'}
                     />
                     <TouchableOpacity
-                        disabled={this.state.text === ''}
-                        activeOpacity={this.state.text === '' ? 0.5 : 1}
+                        disabled={this.state.question === '' || this.state.answer === ''}
                         style={[styles.primaryButton]}
                         onPress={() => this.onSubmit()}>
                         <Text style={styles.buttonText}>Add this card</Text>
@@ -63,13 +59,13 @@ class EntryQuestions extends Component {
 
 function mapStateToProps (state) {
     return {
-        decks: state.decks
+        decks: state
     }
 }
 
 function mapDispatchToProps (dispatch) {
     return {
-        addEntry: ({entry,key}) => dispatch(addEntry({entry,key}))
+        addCard: ({card,key}) => dispatch(addCard({card,key}))
     }
 }
 
