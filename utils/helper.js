@@ -6,11 +6,19 @@ export function getDecks() {
             questions: [
                 {
                     question: 'What is React?',
-                    answer: 'A library for managing user interfaces'
+                    answer: 'Correct',
                 },
                 {
                     question: 'Where do you make Ajax requests in React?',
-                    answer: 'The componentDidMount lifecycle event'
+                    answer: 'Correct'
+                },
+                {
+                    question: 'Where do you make Ajax requests in React?',
+                    answer: 'Correct'
+                },
+                {
+                    question: 'Where do you make Ajax requests in React?',
+                    answer: 'Correct'
                 }
             ]
         },
@@ -18,8 +26,8 @@ export function getDecks() {
             title: 'JavaScript',
             questions: [
                 {
-                    question: 'What is a closure?',
-                    answer: 'The combination of a function and the lexical environment within which that function was declared.'
+                    question: 'Is closure a function?',
+                    answer: 'Correct'
                 }
             ]
         },
@@ -27,8 +35,8 @@ export function getDecks() {
             title: 'Python',
             questions: [
                 {
-                    question: 'Is Python named after well known TV programme called "Monty Python"?',
-                    answer: 'Yes it is !'
+                    question: 'Is Python named after well known TV programme called Monty Python?',
+                    answer: 'Correct'
                 }
             ]
         },
@@ -36,8 +44,8 @@ export function getDecks() {
             title: 'PHP',
             questions: [
                 {
-                    question: 'Is Python named after well known TV programme called "Monty Python"?',
-                    answer: 'Yes it is !'
+                    question: 'Is Python named after well known TV programme called Benny Hill?',
+                    answer: 'Correct'
                 }
             ]
         }

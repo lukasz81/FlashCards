@@ -3,8 +3,64 @@ import {StyleSheet, Dimensions} from 'react-native';
 const IMAGE_HEADER_HEIGHT = 160;
 const FULL_WIDTH = Dimensions.get('window').width;
 const DECK_WIDTH = FULL_WIDTH - FULL_WIDTH/4;
+const CARD_GUTTER = 30;
 
 export default styles = StyleSheet.create({
+    bgActive: {
+        backgroundColor: '#333'
+    },
+    bgInactive: {
+        backgroundColor: 'transparent'
+    },
+    textActive: {
+        color: '#fff'
+    },
+    textInactive: {
+        color: '#333'
+    },
+    fullWidth: {
+        width: FULL_WIDTH
+    },
+    fullHeight: {
+        height: FULL_WIDTH
+    },
+    cardWidth: {
+        width: FULL_WIDTH - CARD_GUTTER
+    },
+    cardHeight: {
+        height: FULL_WIDTH - CARD_GUTTER
+    },
+    cardView: {
+        flex: 0.8,
+        alignItems: 'center',
+        justifyContent: 'center',
+        backgroundColor: '#fefefe',
+        borderRadius: 8,
+        marginLeft: CARD_GUTTER/2
+    },
+    buttonsHolder: {
+        flex: 0.25,
+        alignSelf: 'stretch',
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'space-between'
+    },
+    smallButton: {
+        borderRadius: 20,
+        padding: 4,
+        paddingLeft: 10,
+        paddingRight: 10,
+        borderWidth: 1,
+        borderColor: '#333'
+    },
+    questionText: {
+        alignContent: 'center',
+        textAlign: 'center',
+        fontSize: 23,
+        padding:15,
+        color: '#333',
+        fontWeight: '200'
+    },
     primaryButton: {
         alignContent: 'center',
         backgroundColor: '#5fba7d',
@@ -42,7 +98,7 @@ export default styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         backgroundColor: '#333',
-        padding: 15,
+        padding: 15
     },
     imageStyle: {
         alignSelf: 'stretch',

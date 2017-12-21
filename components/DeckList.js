@@ -52,7 +52,6 @@ class DeckList extends React.Component {
                     </View>
                 </View>
                 <ScrollView
-                    onScroll={this.handleScroll}
                     scrollEventThrottle={1}
                     contentContainerStyle={{alignItems: 'center'}}
                     centerContent={false}>

@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import {View, Text, KeyboardAvoidingView, TextInput, TouchableOpacity} from 'react-native';
+import ToggleSwitch from 'toggle-switch-react-native';
 import styles from '../styles';
 import { connect } from 'react-redux';
 import { addCard } from '../actions';
@@ -10,7 +11,7 @@ class EntryQuestions extends Component {
         super(props);
         this.state = {
             question: '',
-            answer: ''
+            answer: 'Incorrect'
         };
     }
     onSubmit = () => {
@@ -21,14 +22,14 @@ class EntryQuestions extends Component {
     };
     render() {
         return (
-            <View style={{flex: 1, backgroundColor: '#333'}}>
+            <View style={[styles.container,{flex: 1, backgroundColor: '#333'}]}>
                 <View style={{flex: 0.5}}>
                     <Text></Text>
                     <Text style={[styles.textHeader,styles.heading]}>
                         You are adding new question and answer to the card.
                     </Text>
                 </View>
-                <KeyboardAvoidingView behavior='padding' style={[styles.container,{flex:0.5}]}>
+                <KeyboardAvoidingView behavior='padding' style={[{flex:0.6}]}>
                     <TextInput
                         style={styles.newDeckInput}
                         onChangeText={(question) => this.setState({question: question})}
@@ -37,20 +38,23 @@ class EntryQuestions extends Component {
                         placeholderTextColor={'#999'}
 
                     />
-                    <TextInput
-                        style={styles.newDeckInput}
-                        onChangeText={(answer) => this.setState({answer: answer})}
-                        placeholder={'Add answer'}
-                        placeholderTextColor={'#999'}
+                    <Text></Text>
+                    <ToggleSwitch
+                        style={{marginTop: 100}}
+                        isOn={false}
+                        onColor='#5fba7d'
+                        offColor='#999'
+                        label={`Choose your answer: ${this.state.answer}`}
+                        labelStyle={{color: '#fefefe', fontWeight: '200', minWidth: 200}}
+                        onToggle={ (isOn) => this.setState({answer: isOn ? 'Correct' : 'Incorrect'}) }
                     />
-                    <TouchableOpacity
-                        disabled={this.state.question === '' || this.state.answer === ''}
-                        style={[styles.primaryButton]}
-                        onPress={() => this.onSubmit()}>
-                        <Text style={styles.buttonText}>Add this card</Text>
-                    </TouchableOpacity>
                 </KeyboardAvoidingView>
-
+                <TouchableOpacity
+                    disabled={this.state.question === '' || this.state.answer === ''}
+                    style={[styles.primaryButton]}
+                    onPress={() => this.onSubmit()}>
+                    <Text style={styles.buttonText}>Add this card</Text>
+                </TouchableOpacity>
             </View>
         )
     }

@@ -38,7 +38,9 @@ class DeckView extends Component {
                     color={'#fff'}
                     size={100}/>
                 <View>
-                    <TouchableOpacity style={styles.primaryButton}>
+                    <TouchableOpacity
+                        onPress={() => this.props.navigation.navigate('QuizView',{deckName: deckName})}
+                        style={styles.primaryButton}>
                         <Text style={styles.buttonText}>Start quiz</Text>
                     </TouchableOpacity>
                     <TouchableOpacity

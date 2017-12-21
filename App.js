@@ -4,6 +4,7 @@ import {StackNavigator} from 'react-navigation';
 import DeckList from './components/DeckList';
 import DeckView from './components/DeckView';
 import EntryDeck from './components/EntryDeck';
+import QuizView from './components/QuizView';
 import thunk from 'redux-thunk';
 import { createStore, applyMiddleware } from 'redux';
 import entries from "./reducers";
@@ -61,6 +62,10 @@ const MainNavigator = StackNavigator({
     },
     EntryQuestions: {
         screen: EntryQuestions,
+        navigationOptions: header
+    },
+    QuizView: {
+        screen: QuizView,
         navigationOptions: header
     }
 });
