@@ -44,7 +44,7 @@ class EntryQuestions extends Component {
                         isOn={false}
                         onColor='#5fba7d'
                         offColor='#999'
-                        label={`Choose your answer: ${this.state.answer}`}
+                        label={`... and your answer: ${this.state.answer}`}
                         labelStyle={{color: '#fefefe', fontWeight: '200', minWidth: 200}}
                         onToggle={ (isOn) => this.setState({answer: isOn ? 'Correct' : 'Incorrect'}) }
                     />

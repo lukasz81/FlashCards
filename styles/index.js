@@ -58,7 +58,7 @@ export default styles = StyleSheet.create({
         textAlign: 'center',
         fontSize: 23,
         padding:15,
-        color: '#333',
+        color: '#666',
         fontWeight: '200'
     },
     primaryButton: {

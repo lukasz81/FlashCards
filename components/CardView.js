@@ -12,17 +12,28 @@ class CardView extends React.Component {
         this.state = {
             card: {},
             flip: false,
-            index: null
+            index: null,
+            isAnswered: false,
+            choice: ''
         };
     }
+
+    ANSWER_CORRECT_STRING = 'Correct';
+    ANSWER_INCORRECT_STRING = 'Incorrect';
 
     componentWillMount() {
         const {card,index} = this.props;
         this.setState({card: card, index: index});
     }
 
-    onPress = () => {
-        console.log('state ',this.state)
+    onAnswerPress = (choice) => {
+        const assignedAnswer = this.state.card.answer;
+        this.setState({choice: choice, isAnswered: true});
+        this.props.onAnswerPress({
+            choice: choice,
+            assignedAnswer: assignedAnswer,
+            cardIndex: this.state.index
+        });
     };
 
     render() {
@@ -54,12 +65,29 @@ class CardView extends React.Component {
                     </FlipCard>
                 </View>
                 <View View style={styles.buttonsHolder}>
-                    <TouchableOpacity onPress={() => this.onPress()}
-                                      style={[styles.smallButton,{marginLeft: 10}]}>
-                        <Text style={styles.textInactive}>Correct</Text>
+                    <TouchableOpacity
+                        disabled={this.state.isAnswered}
+                        onPress={() => this.onAnswerPress(this.ANSWER_CORRECT_STRING)}
+                        style={[
+                            styles.smallButton,
+                            {marginLeft: 10},
+                            this.state.choice === this.ANSWER_CORRECT_STRING ? styles.bgActive : styles.bgInactive]}>
+                        <Text style={[
+                            styles.textInactive,
+                            this.state.choice === this.ANSWER_CORRECT_STRING ? styles.textActive : styles.textInactive
+                        ]}>{this.ANSWER_CORRECT_STRING}</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity style={styles.smallButton}>
-                        <Text style={styles.textInactive}>Incorrect</Text>
+                    <TouchableOpacity
+                        disabled={this.state.isAnswered}
+                        onPress={() => this.onAnswerPress(this.ANSWER_INCORRECT_STRING)}
+                        style={[
+                            styles.smallButton,
+                            {marginLeft: 10},
+                            this.state.choice === this.ANSWER_INCORRECT_STRING ? styles.bgActive : styles.bgInactive]}>
+                        <Text style={[
+                            styles.textInactive,
+                            this.state.choice === this.ANSWER_INCORRECT_STRING ? styles.textActive : styles.textInactive
+                        ]}>{this.ANSWER_INCORRECT_STRING}</Text>
                     </TouchableOpacity>
                     <TouchableOpacity
                         onPress={() => this.setState({flip: !this.state.flip})}

@@ -1,5 +1,5 @@
 import React from 'react';
-import {ScrollView, View, Text, Image, TouchableOpacity} from 'react-native';
+import {ScrollView, View, Text, Image, TouchableOpacity, FlatList} from 'react-native';
 import { getDecks } from '../utils/helper';
 import {MaterialCommunityIcons, Ionicons} from '@expo/vector-icons';
 import {Constants} from 'expo';
@@ -41,7 +41,6 @@ class DeckList extends React.Component {
     render() {
         const {decks} = this.props;
         const {navigate} = this.props.navigation;
-        //console.log('DECKS => ', decks);
         return (
             <View style={{flex: 1, backgroundColor: '#333'}}>
                 <Image blurRadius={0} source={require('../assets/desk-800x533.jpg')} style={styles.imageStyle}/>
@@ -80,7 +79,7 @@ class DeckList extends React.Component {
                             </TouchableOpacity>
                         )
                     })}
-                    {( <TouchableOpacity onPress={() => navigate('EntryDeck',{title: 'Add new deck'})}>
+                    {( <TouchableOpacity onPress={() => navigate('EntryDeck',{deckName: 'Add new deck'})}>
                             <View style={[styles.deckAddNew, styles.shadow]}>
                                 <Text style={[styles.text, styles.heading]}>
                                     <Ionicons

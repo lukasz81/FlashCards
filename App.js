@@ -10,6 +10,8 @@ import { createStore, applyMiddleware } from 'redux';
 import entries from "./reducers";
 import {Provider} from 'react-redux';
 import EntryQuestions from "./components/EntryQuestions";
+import FinalView from "./components/FinalView";
+import setLocalNotification from './utils/helper'
 
 const store = createStore(
     entries,
@@ -25,6 +27,10 @@ function UdaciStatusBar({backgroundColor, ...props}) {
 }
 
 export default class App extends React.Component {
+
+    componentDidMount(){
+        setLocalNotification()
+    }
 
     render() {
         return (
@@ -67,6 +73,12 @@ const MainNavigator = StackNavigator({
     QuizView: {
         screen: QuizView,
         navigationOptions: header
+    },
+    FinalView: {
+        screen: FinalView,
+        navigationOptions: {
+            header: null
+        }
     }
 });
 

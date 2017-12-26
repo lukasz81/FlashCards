@@ -1,7 +1,8 @@
 import {
     RECEIVE_ENTRIES,
     ADD_ENTRY,
-    ADD_CARD
+    ADD_CARD,
+    REGISTER_FINISHED_QUIZ
 } from "../actions/index";
 
 function entries(state={},action) {

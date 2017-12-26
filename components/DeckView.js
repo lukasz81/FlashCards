@@ -13,12 +13,19 @@ class DeckView extends Component {
             deckName: ''
         };
     }
+
+    componentWillMount() {
+        this.setState({
+            deckName: this.props.navigation.state.params.deckName
+        })
+    }
+
     static navigationOptions = ({ navigation }) => ({
-        title: `${navigation.state.params.title}`
+        title: `${navigation.state.params.deckName}`
     });
 
     render() {
-        const {deckName} = this.props.navigation.state.params;
+        const {deckName} = this.state;
         const numberOfQuestions = this.props.decks[deckName].questions.length;
         const stringToDisplay = (numberOfQuestions === 0 || numberOfQuestions > 1)
             ? `${numberOfQuestions} CARDS`
