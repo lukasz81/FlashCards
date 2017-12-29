@@ -3,6 +3,8 @@
 # expo
 .expo/
 
+.idea
+
 # misc
 .env.local
 .env.development.local
