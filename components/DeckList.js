@@ -103,10 +103,4 @@ function mapStateToProps (state) {
     }
 }
 
-function mapDispatchToProps (dispatch) {
-    return {
-        receiveEntries: (decks) => dispatch(receiveEntries(decks))
-    }
-}
-
-export default connect(mapStateToProps,mapDispatchToProps)(DeckList)
+export default connect(mapStateToProps,{receiveEntries})(DeckList)

@@ -67,10 +67,4 @@ function mapStateToProps (state) {
     }
 }
 
-function mapDispatchToProps (dispatch) {
-    return {
-        addCard: ({card,key}) => dispatch(addCard({card,key}))
-    }
-}
-
-export default connect(mapStateToProps,mapDispatchToProps)(EntryQuestions)
+export default connect(mapStateToProps,{addCard})(EntryQuestions)

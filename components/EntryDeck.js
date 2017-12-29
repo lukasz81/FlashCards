@@ -72,10 +72,4 @@ function mapStateToProps (state) {
     }
 }
 
-function mapDispatchToProps (dispatch) {
-    return {
-        addEntry: ({entry,key}) => dispatch(addEntry({entry,key}))
-    }
-}
-
-export default connect(mapStateToProps,mapDispatchToProps)(EntryDeck)
+export default connect(mapStateToProps,{addEntry})(EntryDeck)

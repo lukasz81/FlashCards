@@ -3,7 +3,6 @@ import {View, Text, TouchableOpacity} from 'react-native';
 import {MaterialCommunityIcons, Ionicons, MaterialIcons} from '@expo/vector-icons';
 import styles from '../styles';
 import {connect} from "react-redux";
-import {receiveEntries} from '../actions';
 import FlipCard from 'react-native-flip-card';
 
 class CardView extends React.Component {
@@ -106,10 +105,4 @@ function mapStateToProps (state) {
     }
 }
 
-function mapDispatchToProps (dispatch) {
-    return {
-        receiveEntries: (decks) => dispatch(receiveEntries(decks))
-    }
-}
-
-export default connect(mapStateToProps,mapDispatchToProps)(CardView)
+export default connect(mapStateToProps,null)(CardView)

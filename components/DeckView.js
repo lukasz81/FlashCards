@@ -79,10 +79,4 @@ function mapStateToProps (state) {
     }
 }
 
-function mapDispatchToProps (dispatch) {
-    return {
-        addEntry: ({entry,key}) => dispatch(addEntry({entry,key}))
-    }
-}
-
-export default connect(mapStateToProps,mapDispatchToProps)(DeckView)
+export default connect(mapStateToProps,null)(DeckView)
