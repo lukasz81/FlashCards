@@ -14,10 +14,10 @@ const store = createStore(
     applyMiddleware(thunk)
 );
 
-function UdaciStatusBar({backgroundColor, ...props}) {
+function UdaciStatusBar({...props}) {
     return (
-        <View style={{backgroundColor}}>
-            <StatusBar translucent backgroundColor={'#000'} {...props} />
+        <View>
+            <StatusBar translucent {...props} />
         </View>
     )
 }

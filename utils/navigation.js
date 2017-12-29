@@ -4,11 +4,12 @@ import EntryDeck from "../components/EntryDeck";
 import DeckView from "../components/DeckView";
 import EntryQuestions from "../components/EntryQuestions";
 import QuizView from "../components/QuizView";
+import colors from "./colors";
 
 const header = {
-    headerTintColor: '#fff',
+    headerTintColor: colors.white,
     headerStyle: {
-        backgroundColor: '#333333'
+        backgroundColor: colors.mainBackground
     }
 };
 

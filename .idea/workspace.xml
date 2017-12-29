@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35acb99d-5189-408e-87c4-c7cdbbb8b278" name="Default" comment="core(gitignore file): remove node modules from git ignore file">
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/navigation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/colors.js" />
       <change beforePath="$PROJECT_DIR$/.expo/packager-info.json" afterPath="$PROJECT_DIR$/.expo/packager-info.json" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/App.js" afterPath="$PROJECT_DIR$/App.js" />
-      <change beforePath="$PROJECT_DIR$/components/DeckView.js" afterPath="$PROJECT_DIR$/components/DeckView.js" />
-      <change beforePath="$PROJECT_DIR$/components/EntryDeck.js" afterPath="$PROJECT_DIR$/components/EntryDeck.js" />
+      <change beforePath="$PROJECT_DIR$/styles/index.js" afterPath="$PROJECT_DIR$/styles/index.js" />
+      <change beforePath="$PROJECT_DIR$/utils/navigation.js" afterPath="$PROJECT_DIR$/utils/navigation.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +23,33 @@
     <splitter split-orientation="horizontal" split-proportion="0.6764214">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/styles/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3120">
+                  <caret line="156" column="28" lean-forward="true" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#0#52#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="colors.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/utils/colors.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="100">
+                  <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/App.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="409">
-                  <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+                <state relative-caret-position="167">
+                  <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -38,8 +60,8 @@
           <file leaf-file-name="navigation.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/utils/navigation.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="220">
-                  <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+                <state relative-caret-position="180">
+                  <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
                   <folding>
                     <element signature="e#0#46#0" expanded="true" />
                   </folding>
@@ -168,7 +190,6 @@
         <option value="$PROJECT_DIR$/components/EntryDetail.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/components/CardView.js" />
-        <option value="$PROJECT_DIR$/styles/index.js" />
         <option value="$PROJECT_DIR$/components/EntryQuestions.js" />
         <option value="$PROJECT_DIR$/reducers/index.js" />
         <option value="$PROJECT_DIR$/components/FinalView.js" />
@@ -179,6 +200,8 @@
         <option value="$PROJECT_DIR$/components/DeckView.js" />
         <option value="$PROJECT_DIR$/components/QuizView.js" />
         <option value="$PROJECT_DIR$/components/DeckList.js" />
+        <option value="$PROJECT_DIR$/styles/index.js" />
+        <option value="$PROJECT_DIR$/utils/colors.js" />
         <option value="$PROJECT_DIR$/App.js" />
         <option value="$PROJECT_DIR$/utils/navigation.js" />
       </list>
@@ -233,6 +256,11 @@
             <path>
               <item name="flashcards" type="b2602c69:ProjectViewProjectNode" />
               <item name="flashcards" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flashcards" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flashcards" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -278,7 +306,7 @@
       <workItem from="1513933382013" duration="17492000" />
       <workItem from="1514304332749" duration="5483000" />
       <workItem from="1514534676418" duration="7000" />
-      <workItem from="1514534704371" duration="5556000" />
+      <workItem from="1514534704371" duration="7435000" />
     </task>
     <task id="LOCAL-00001" summary="core(REDUX &amp; AsyncStore): Add views to enter questions and decks">
       <created>1513701907300</created>
@@ -322,11 +350,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514534909168</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="core(functionality): route to DeckView / move nav to separate file">
+      <created>1514553371108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1514553371108</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149176000" />
+    <option name="totallyTimeSpent" value="151055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -366,7 +401,8 @@
     <MESSAGE value="core(Quiz &amp; Card View): Add views / Change answers in Quiz to yes/no" />
     <MESSAGE value="core(LocalNotification): Add LocalNotification" />
     <MESSAGE value="core(gitignore file): remove node modules from git ignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="core(gitignore file): remove node modules from git ignore file" />
+    <MESSAGE value="core(functionality): route to DeckView / move nav to separate file" />
+    <option name="LAST_COMMIT_MESSAGE" value="core(functionality): route to DeckView / move nav to separate file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -375,14 +411,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/components/DeckView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/QuizView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
@@ -405,7 +433,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -481,7 +511,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -590,7 +622,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -674,14 +708,6 @@
             <marker date="1513872264000" expanded="true" signature="2124:2173" ph="..." />
             <marker date="1513872264000" expanded="false" signature="2347:2366" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,10 +821,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utils/colors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="156" column="28" lean-forward="true" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="167">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -807,8 +851,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/navigation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        <state relative-caret-position="180">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>

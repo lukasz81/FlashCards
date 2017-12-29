@@ -1,4 +1,5 @@
 import {StyleSheet, Dimensions} from 'react-native';
+import colors from '../utils/colors';
 
 const IMAGE_HEADER_HEIGHT = 160;
 const FULL_WIDTH = Dimensions.get('window').width;
@@ -7,16 +8,16 @@ const CARD_GUTTER = 30;
 
 export default styles = StyleSheet.create({
     bgActive: {
-        backgroundColor: '#333'
+        backgroundColor: colors.mainBackground
     },
     bgInactive: {
         backgroundColor: 'transparent'
     },
     textActive: {
-        color: '#fff'
+        color: colors.white
     },
     textInactive: {
-        color: '#333'
+        color: colors.mainBackground
     },
     fullWidth: {
         width: FULL_WIDTH
@@ -34,7 +35,7 @@ export default styles = StyleSheet.create({
         flex: 0.8,
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundColor: '#fefefe',
+        backgroundColor: colors.creamGrey,
         borderRadius: 8,
         marginLeft: CARD_GUTTER/2
     },
@@ -51,19 +52,19 @@ export default styles = StyleSheet.create({
         paddingLeft: 10,
         paddingRight: 10,
         borderWidth: 1,
-        borderColor: '#333'
+        borderColor: colors.mainBackground
     },
     questionText: {
         alignContent: 'center',
         textAlign: 'center',
         fontSize: 23,
         padding:15,
-        color: '#666',
+        color: colors.darkerGrey,
         fontWeight: '200'
     },
     primaryButton: {
         alignContent: 'center',
-        backgroundColor: '#5fba7d',
+        backgroundColor: colors.primaryCTA,
         padding: 20,
         marginBottom: 10,
         marginTop: 20,
@@ -72,7 +73,7 @@ export default styles = StyleSheet.create({
     secondaryButton: {
         alignContent: 'center',
         backgroundColor: 'transparent',
-        borderColor: '#fff',
+        borderColor: colors.white,
         borderWidth: 1,
         padding: 20,
         marginBottom: 20,
@@ -82,14 +83,14 @@ export default styles = StyleSheet.create({
     buttonText: {
         fontWeight: '600',
         textAlign: 'center',
-        color: '#fff',
+        color: colors.white,
         fontSize: 18
     },
     newDeckInput: {
         height: 60,
         borderBottomWidth: 1,
-        borderBottomColor: '#fefefe',
-        color: '#fefefe',
+        borderBottomColor: colors.creamGrey,
+        color: colors.creamGrey,
         fontSize: 28,
         textAlign: 'center',
         fontWeight: '400'
@@ -97,7 +98,7 @@ export default styles = StyleSheet.create({
     container: {
         flex: 1,
         justifyContent: 'center',
-        backgroundColor: '#333',
+        backgroundColor: colors.mainBackground,
         padding: 15
     },
     imageStyle: {
@@ -112,7 +113,7 @@ export default styles = StyleSheet.create({
     textHeader: {
         fontWeight: '400',
         textAlign: 'center',
-        color: '#fff',
+        color: colors.white,
     },
     viewHeader: {
         height: IMAGE_HEADER_HEIGHT,
@@ -123,7 +124,7 @@ export default styles = StyleSheet.create({
     shadow: {
         shadowRadius: 10,
         shadowOpacity: 0.3,
-        shadowColor: '#000',
+        shadowColor: colors.black,
         shadowOffset: {
             width: 0,
             height: 0
@@ -131,7 +132,7 @@ export default styles = StyleSheet.create({
     },
     deck: {
         alignContent: 'center',
-        backgroundColor: '#444',
+        backgroundColor: colors.deckColor,
         padding: 10,
         marginTop: 20,
         borderRadius: 8,
@@ -139,7 +140,7 @@ export default styles = StyleSheet.create({
     },
     deckAddNew: {
         alignContent: 'center',
-        backgroundColor: '#5fba7d',
+        backgroundColor: colors.primaryCTA,
         padding: 10,
         marginBottom: 20,
         marginTop: 20,
@@ -152,7 +153,7 @@ export default styles = StyleSheet.create({
         fontWeight: '200'
     },
     text: {
-        color: '#fefefe',
+        color: colors.creamGrey,
         textAlign: 'center',
         paddingBottom: 10,
         fontSize: 15,
