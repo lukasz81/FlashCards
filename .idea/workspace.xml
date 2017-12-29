@@ -1,1045 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35acb99d-5189-408e-87c4-c7cdbbb8b278" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/generate-icon" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@expo/bunyan/docs/img/bunyan.browserify.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@expo/spawn-async/build/spawnAsync.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/bower.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@expo/vector-icons/vendor/react-native-vector-icons/glyphmaps/MaterialIcons.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@expo/vector-icons/website/src/fonts/Feather.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/Base64/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/acorn/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/acorn/src/locutil.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ajv/lib/dotjs/allOf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ajv/scripts/bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/analytics-node/yarn.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/anymatch/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/are-we-there-yet/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/argparse/lib/action/append/constant.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/array-map/test/map.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/array-reduce/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/art/modes/canvas/surface.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/art/morph/path.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/auth0-js/node_modules/object-keys/isArguments.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/auth0/docs/auth_index.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/auth0/docs/fonts/OpenSans-Bold-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/auth0/docs/management_ClientsManager.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/buildURL.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-code-frame/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-code-frame/node_modules/chalk/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/options/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/options/option-manager.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/types.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-helper-define-map/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-check-es2015-constants/lib/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-istanbul/lib/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-module-resolver/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-react-transform/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-react-transform/test/fixtures/code-class-within-function-extends-react-component-with-render-method/actual.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-react-transform/test/fixtures/code-exports/expected.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-react-transform/test/fixtures/options-with-locals-with-render-method/expected.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-classes/lib/lib/memoise-decorators.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-function-name/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-parameters/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-polyfill/dist/polyfill.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-polyfill/node_modules/regenerator-runtime/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-polyfill/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-runtime/core-js/array/pop.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/selfGlobal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-runtime/helpers/sliced-to-array.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-types/lib/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/big-integer/bower.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bluebird/js/main/assert.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bluebird/js/main/promise_array.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/boom/node_modules/hoek/lib/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/browser-resolve/node_modules/resolve/test/module_dir/ymodules/aaa/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/browser-resolve/node_modules/resolve/test/precedence/aaa/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/browser-resolve/node_modules/resolve/test/resolver/mug.coffee" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/camel-case/camel-case.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/caseless/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/change-case/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/chardet/match.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/color-support/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/middleware/limit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/lib/patch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/qs/lib/utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/connect/node_modules/raw-body/node_modules/iconv-lite/Changelog.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/content-disposition/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cookie-parser/HISTORY.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/es6/set.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/es7/set.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/fn/reflect/metadata.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/fn/regexp/search.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/fn/regexp/split.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/fn/symbol/key-for.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/fn/symbol/observable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/core/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/es6/typed.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/fn/date/to-iso-string.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/fn/get-iterator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/fn/object/get-own-property-names.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/fn/reflect/delete-property.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/fn/set-immediate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/fn/string/virtual/big.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/fn/string/virtual/trim-start.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/fn/system/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/_entry-virtual.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/_object-to-array.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/_to-index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/_typed.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/es6.function.name.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/es6.math.asinh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/es6.math.tanh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/es6.object.freeze.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/es6.object.is-extensible.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/es7.object.entries.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/es7.string.pad-end.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/_collection-to-json.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/_object-gopn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/_shared.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/es6.number.parse-float.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/es6.object.is-extensible.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/es6.reflect.delete-property.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/es6.regexp.constructor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/es6.string.fixed.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/es6.string.fontcolor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/modules/es7.error.is-error.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/core-js/shim.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/crc/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssstyle/lib/properties/backgroundImage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssstyle/lib/properties/borderLeftWidth.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssstyle/lib/properties/borderRightColor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssstyle/lib/properties/colorInterpolationFilters.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssstyle/lib/properties/paddingLeft.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssstyle/lib/properties/webkitMarginBottomCollapse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssstyle/lib/properties/webkitMarginStart.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssstyle/lib/properties/webkitPrintColorAdjust.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssstyle/lib/properties/webkitTextOrientation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssstyle/lib/properties/webkitWrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/deep-extend/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/degenerator/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/detect-libc/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/diff/lib/diff/character.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/errorhandler/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/es-abstract/operations/2017.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/es-to-primitive/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/race.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/es6-promisify/dist/promise.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/etag/HISTORY.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expo/node_modules/react-native-svg/ios/Utils/RNSVGUnits.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expo/node_modules/react-native-svg/lib/extract/extractStroke.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expo/node_modules/react-native-svg/lib/extract/patternReg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expo/node_modules/react-native-svg/screenShoots/lineargradient.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expo/node_modules/react-native-svg/screenShoots/polyline.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expo/src/LegacyAsyncStorage.ios.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expo/src/admob/RNAdMobBanner.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/expo/src/facebook-ads/withNativeAd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/negotiator/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/express/node_modules/serve-static/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/extend/component.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fast-levenshtein/levenshtein.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/lib/containsNode.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/lib/cx.js.flow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/lib/equalsIterable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/lib/isEmpty.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/es6/math.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/fn/array/pop.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/fn/symbol/replace.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/core/delay.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/fn/array/from.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/fn/function/name.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/fn/object/is.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/fn/object/keys.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/fn/reflect/enumerate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/fn/string/pad-left.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/modules/$.to-length.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/modules/es6.reflect.construct.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/modules/es6.string.repeat.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/library/modules/es6.weak-set.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/modules/es6.typed.array-buffer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/core-js/modules/es6.typed.int8-array.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fileset/.eslintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fileset/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/find-babel-config/lib/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/forever-agent/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/win32.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/buffer-shims/license.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/delayed-stream/Makefile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/fstream/lib/proxy-writer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/set-immediate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/gauge/template-item.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/har-validator/lib/node6/promise.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hoek/CONTRIBUTING.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hoek/images/hoek.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/isstream/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-zyp-json-schema-03.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-stable-stringify/test/space.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-stringify-safe/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/mime-types/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/punycode/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/sshpk/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/string_decoder/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/tough-cookie/lib/pathMatch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/uid-number/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ftp/node_modules/string_decoder/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/function-bind/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/get-uri/test/https.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/globals/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp-util/node_modules/supports-color/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulplog/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/hasbin/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/hosted-git-info/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/http-errors/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/http-proxy-agent/test/test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/http-signature/lib/utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/image-size/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/inquirer/lib/utils/utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/inquirer/node_modules/ansi-regex/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-ci/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-date-object/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-number/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/isexe/mode.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/async/auto.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/async/cargo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/async/detectSeries.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/async/findSeries.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/async/forEachSeries.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/async/internal/doLimit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/async/internal/slice.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/async/reduceRight.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/lib/transformer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-reports/lib/html/helpers.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-cli/build/assets/jest_logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-cli/node_modules/.bin/jest-runtime" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-jasmine2/build/expectation_result_factory.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-jasmine2/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-resolve-dependencies/build/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsbn/example.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/browser/documentfeatures.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/living/events/CustomEvent-impl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/living/form-data-symbols.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/living/generated/HTMLTimeElement.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/living/generated/HTMLUListElement.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/living/generated/NavigatorOnLine.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/living/generated/NavigatorPlugins.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/living/generated/ProgressEvent.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/living/generated/TreeWalker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/living/traversal/TreeWalker-impl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/living/xhr-sync-worker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/links" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/json-stable-stringify/test/nested.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonp/node_modules/debug/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonp/node_modules/debug/src/node.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/.history/lib/payload_checks_20170611162901.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/.history/lib/payload_checks_20170611164413.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/.history/lib/payload_checks_20170611170500.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/.history/lib/payload_checks_2017062501148.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/.history/lib/payload_checks_201706250837.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/.history/test/jwt.asymmetric_signing.tests_20170611125102.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/.history/tester_20170714125350.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/.history/tokenGenerator_20170714121630.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/lib/timespan.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/joi/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/joi/lib/ref.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lazy-cache/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/_arrayEach.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/_asciiToArray.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/_baseFlatten.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/_baseGetAllKeys.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/_baseToPairs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/_baseUpdate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/_castFunction.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/_customOmitClone.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/_equalObjects.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/_mapCacheClear.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/isObject.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/isRegExp.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/minBy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/negate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/spread.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash-es/startsWith.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash._reescape/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash._reinterpolate/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash.padstart/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/_assocIndexOf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/_hashDelete.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/_wrapperClone.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/attempt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/camelCase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/each.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/fp/curry.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/fp/defaultsDeepAll.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/fp/findFrom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/fp/flatMapDepth.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/fp/isArrayBuffer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/fp/set.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/fp/some.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/fp/sum.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/isNaN.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/next.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/pullAt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/remove.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/round.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/snakeCase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/Lottie.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/Lottie.xcodeproj/xcuserdata/brandon_withrow.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/build/android-profile/profile-2017-09-22-18-01-22-642.rawproto" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/generated/source/r/release/android/support/v4/R.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/blame/res/release/multi/values-fr.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/blame/res/release/single/drawable-ldrtl-hdpi-v17.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/blame/res/release/single/layout-v16.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/classes/release/android/support/coreui/R$integer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/classes/release/android/support/coreutils/R$color.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/classes/release/android/support/graphics/drawable/animated/R$id.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/classes/release/android/support/mediacompat/R$color.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/classes/release/com/airbnb/android/react/lottie/R.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_black_48dp.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_longpressed_holo.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/values-pt/values-pt.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/intermediates/res/merged/release/values-v18/values-v18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_2js8vmssdnr6bpzwcloj4jrzk/android/support/v4/view/AsyncLayoutInflater$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_2js8vmssdnr6bpzwcloj4jrzk/android/support/v4/widget/DrawerLayout$EdgeGravity.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_2js8vmssdnr6bpzwcloj4jrzk/android/support/v4/widget/FocusStrategy.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_2js8vmssdnr6bpzwcloj4jrzk/android/support/v4/widget/SwipeProgressBar.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/app/NotificationBuilderWithBuilderAccessor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/app/NotificationCompat$CarExtender$UnreadConversation$Builder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/app/NotificationCompatJellybean$Builder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/app/ShareCompat.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/content/res/ResourcesCompat.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/hardware/fingerprint/FingerprintManagerCompatApi23$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/internal/package-info.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/provider/SelfDestructiveThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/util/LongSparseArray.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/view/MotionEventCompat.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/view/ScaleGestureDetectorCompat.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/view/VelocityTrackerCompat.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_50tugmhm306t95br9mkwxovgt/android/support/v4/widget/CompoundButtonCompat$CompoundButtonCompatApi21Impl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/app/ActionBar$TabListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/view/menu/StandardMenuPopup$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/widget/AbsActionBarView$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/widget/ActionBarOverlayLayout$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/widget/ActionMenuPresenter$OverflowMenuButton$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/widget/AppCompatBackgroundHelper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/widget/FitWindowsViewGroup.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/widget/MenuPopupWindow.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/widget/SearchView$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/widget/TooltipCompat$Api26ViewCompatImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_7q2rrua0pogprrcd7lhjfyzlg/android/support/v7/widget/TooltipCompatHandler$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9bel2nhd4vlcocqgtdga5qscb/android/support/v4/app/BackStackRecord.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9bel2nhd4vlcocqgtdga5qscb/android/support/v4/app/Fragment$AnimationInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9bel2nhd4vlcocqgtdga5qscb/android/support/v4/app/Fragment$SavedState.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9bel2nhd4vlcocqgtdga5qscb/android/support/v4/app/FragmentTransitionCompat21.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9ckw8eu4a1z03o4q4md588ngh/com/airbnb/lottie/LottieAnimationView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9ckw8eu4a1z03o4q4md588ngh/com/airbnb/lottie/LottieDrawable$LazyCompositionTask.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9ckw8eu4a1z03o4q4md588ngh/com/airbnb/lottie/LottieDrawable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9ckw8eu4a1z03o4q4md588ngh/com/airbnb/lottie/animation/keyframe/PathKeyframe.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9ckw8eu4a1z03o4q4md588ngh/com/airbnb/lottie/model/FileCompositionLoader.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9ckw8eu4a1z03o4q4md588ngh/com/airbnb/lottie/model/animatable/AnimatableShapeValue$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9ckw8eu4a1z03o4q4md588ngh/com/airbnb/lottie/model/layer/SolidLayer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9x65my2kdi5p9awbep9cbvzwk/android/support/v4/media/AudioAttributesCompat$Builder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9x65my2kdi5p9awbep9cbvzwk/android/support/v4/media/MediaBrowserCompat$MediaBrowserImplBase.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9x65my2kdi5p9awbep9cbvzwk/android/support/v4/media/MediaBrowserServiceCompat$MediaBrowserServiceImplApi21.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9x65my2kdi5p9awbep9cbvzwk/android/support/v4/media/MediaMetadataCompatApi21.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9x65my2kdi5p9awbep9cbvzwk/android/support/v4/media/session/MediaControllerCompat$Callback$StubCompat.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9x65my2kdi5p9awbep9cbvzwk/android/support/v4/media/session/MediaSessionCompat$Callback$StubApi24.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_9x65my2kdi5p9awbep9cbvzwk/android/support/v4/media/session/ParcelableVolumeInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_b1d8dnuet4xai9hvl2rlr5mt6/android/support/v4/app/FrameMetricsAggregator$FrameMetricsApi24Impl$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_b1d8dnuet4xai9hvl2rlr5mt6/android/support/v4/content/FileProvider$PathStrategy.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_b1d8dnuet4xai9hvl2rlr5mt6/android/support/v4/content/LocalBroadcastManager$BroadcastRecord.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/classes.jar_b1d8dnuet4xai9hvl2rlr5mt6/android/support/v4/print/PrintHelper$PrintHelperApi19.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/build/tmp/expandedArchives/support-annotations-26.1.0.jar_1q25oot4ns7m0vq8amit7u9jz/android/support/annotation/GuardedBy.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/_arrayConcat.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/fp/date.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/fp/getOr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/fp/methodOf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/fp/over.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/fp/seq.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/fp/sortedIndex.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/fp/startsWith.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/isEqualWith.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/lastIndexOf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/lte.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/mapValues.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-memoizer/node_modules/lodash/omit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge/bower.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/async/autoInject.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/async/ensureAsync.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/async/times.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/json5/lib/json5.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/json5/test/parse-cases/comments/block-comment-following-top-level-value.json5" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/json5/test/parse-cases/numbers/negative-zero-octal-coffeescript.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/src/Bundler/source-map/encode.js.flow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/src/ModuleGraph/module.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/src/Server/symbolicate/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/src/lib/getMaxWorkers.js.flow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/src/shared/types.flow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-bundler/src/worker-farm/lib/fork.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/min-document/docs.mli" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp-promise/lib/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp-promise/node_modules/.bin/mkdirp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/sync.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/moment/ender.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/moment/locale/fi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/moment/locale/ss.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/moment/src/lib/create/check-overflow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/moment/src/lib/locale/constructor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/moment/src/locale/bm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/moment/src/locale/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/moment/src/locale/gu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/morgan/node_modules/debug/browser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/multiparty/node_modules/readable-stream/readable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nan/nan_string_bytes.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/natural-compare/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/next-tick/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/ajv/lib/dot/validate.jst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/gauge/has-color.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/har-schema/lib/beforeRequest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/har-schema/lib/cache.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/performance-now/.tm_properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/performance-now/Makefile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nwmatcher/src/modules/nwmatcher-cache.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/object.assign/test/shams/get-own-property-symbols.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/object.getownpropertydescriptors/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/object.getownpropertydescriptors/shim.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/on-headers/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/pac-proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/pac-proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.pem" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/license" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-to-regexp/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/plist/node_modules/lodash/array/unzip.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/plist/node_modules/lodash/array/without.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/plist/node_modules/lodash/collection/contains.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/plist/node_modules/lodash/internal/baseValues.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/plist/node_modules/lodash/internal/binaryIndex.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/plist/node_modules/lodash/internal/invokePath.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/plist/node_modules/lodash/internal/sortedUniq.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/plist/node_modules/lodash/lang/lt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/plist/node_modules/lodash/string/templateSettings.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/plist/node_modules/lodash/string/unescape.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/preserve/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/progress/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qrcode-terminal/example/basic.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/qrcode-terminal/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/raven-js/dist/plugins/vue.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/raven/node_modules/uuid/AUTHORS" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/raven/node_modules/uuid/bin/uuid" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/blame/res/debug/multi/values-sl.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/blame/res/debug/single/color.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/blame/res/release/multi/values-lt.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/blame/res/release/multi/values-v14.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/blame/res/release/multi/values-vi.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/blame/res/release/multi/values-w360dp-v13.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/classes/debug/io/branch/rnbranch/RNBranchModule$5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/classes/release/com/facebook/react/R$style.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/classes/release/io/branch/rnbranch/BuildConfig.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/classes/release/io/branch/rnbranch/RNBranchModule$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_light.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_search_url_text.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxxhdpi/abc_ic_menu_share_mtrl_alpha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_ratingbar_full_material.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-port/values-port.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sr/values-sr.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jni/armeabi-v7a/libreactnativejni.so" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/res/layout/fps_view.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-it/values-it.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw/values-sw.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/debug/values-et-rEE/values-et-rEE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/debug/values-pt/values-pt.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/debug/values/values.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/anim/fade_in.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/layout/redbox_item_frame.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/layout/redbox_item_title.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/res/merged/release/values-h720dp-v13/values-h720dp-v13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-flip-card/lib/Style.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-gesture-handler/ios/RNGestureHandler.xcodeproj/project.pbxproj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/.gradle/4.0/javaCompile/javaCompile.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/blame/res/debug/multi/values-af.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/blame/res/debug/multi/values-bg.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/blame/res/debug/multi/values-es.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/blame/res/release/multi/values-nb.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/blame/res/release/multi/values-ro.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/blame/res/release/multi/values-uk.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/classes/debug/com/airbnb/android/react/maps/AirMapView$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/classes/debug/com/google/android/gms/R$dimen.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/classes/release/com/airbnb/android/react/maps/AirMapPolylineManager.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/classes/release/com/airbnb/android/react/maps/AirMapView$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/R.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-ldrtl-hdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_btn_rating_star_off_mtrl_alpha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_clear_mtrl_alpha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-mdpi/abc_ic_go_search_api_mtrl_alpha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-land/values-land.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.38.1/jars/classes.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ko/values.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-zh-rCN/values.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-zh-rTW/values.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/res/values-fi/values.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/res/values-my/values.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/res/values-tr/values.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-iw/values-iw.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka/values-ka.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sk/values-sk.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-te/values-te.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/res/merged/debug/values-es/values-es.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/res/merged/debug/values-pa/values-pa.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/res/merged/debug/values/values.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/intermediates/res/merged/release/values-zh-rCN/values-zh-rCN.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_7fq4qw722y72q4si44uk9ar5e/com/google/android/gms/ads/identifier/AdvertisingIdClient$Info.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_7fq4qw722y72q4si44uk9ar5e/com/google/android/gms/common/api/Result.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_7fq4qw722y72q4si44uk9ar5e/com/google/android/gms/common/internal/zzs.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_7fq4qw722y72q4si44uk9ar5e/com/google/android/gms/common/util/zzl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_7fq4qw722y72q4si44uk9ar5e/com/google/android/gms/common/zzd$zzb.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_7fq4qw722y72q4si44uk9ar5e/com/google/android/gms/common/zzf.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_7fq4qw722y72q4si44uk9ar5e/com/google/android/gms/dynamite/DynamiteModule$5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_7fq4qw722y72q4si44uk9ar5e/com/google/android/gms/dynamite/DynamiteModule.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_7fq4qw722y72q4si44uk9ar5e/com/google/android/gms/dynamite/zzb$zza.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_7fq4qw722y72q4si44uk9ar5e/com/google/android/gms/internal/zzaaw.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_8sv3wz1pt4w123jva0kbwcwep/com/google/android/gms/common/api/Api$zzb.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_8sv3wz1pt4w123jva0kbwcwep/com/google/android/gms/common/images/ImageManager$zzd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_8sv3wz1pt4w123jva0kbwcwep/com/google/android/gms/dynamic/zza.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_8sv3wz1pt4w123jva0kbwcwep/com/google/android/gms/internal/zzaaz$zzc.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_8sv3wz1pt4w123jva0kbwcwep/com/google/android/gms/internal/zzaba.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_8sv3wz1pt4w123jva0kbwcwep/com/google/android/gms/internal/zzaca.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_8sv3wz1pt4w123jva0kbwcwep/com/google/android/gms/internal/zzzq$zza.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_bdug97d3ygs6ys0soorol8t5d/com/google/android/gms/maps/internal/IUiSettingsDelegate.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_bdug97d3ygs6ys0soorol8t5d/com/google/android/gms/maps/internal/zzw.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/expandedArchives/classes.jar_bdug97d3ygs6ys0soorol8t5d/com/google/android/gms/maps/model/zzm.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/docs/polyline.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/examples/ios/bundler" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/docs/javadoc/com/airbnb/android/react/maps/AirMapCircle.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/docs/javadoc/com/airbnb/android/react/maps/AirMapUrlTile.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/blame/res/debug/multi/values-am.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/blame/res/debug/multi/values-bn.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/blame/res/debug/multi/values-ne.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/blame/res/debug/multi/values-sl.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/blame/res/debug/multi/values-zu.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/blame/res/release/multi/values-fa.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/blame/res/release/multi/values-sr.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/classes/debug/com/airbnb/android/react/maps/AirMapModule$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/classes/release/com/airbnb/android/react/maps/AirMapMarker.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/classes/release/com/airbnb/android/react/maps/AirMapView$7.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ja/values-ja.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ko/values-ko.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur/values-ur.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/debug/values-en-rGB/values-en-rGB.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/debug/values-ta/values-ta.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/debug/values-vi/values-vi.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/values-af/values-af.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/values-kn/values-kn.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/values-si/values-si.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/values-th/values-th.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/values-tr/values-tr.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/poms/pom-default.xml.asc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/src/main/java/com/airbnb/android/react/maps/AirMapPolyline.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-safe-module/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-safe-module/.idea/dictionaries/leland_richardson.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-safe-module/lib/SafeComponent.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-scripts/template/app.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-svg/ios/Brushes/RNSVGPainter.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-svg/ios/Brushes/RNSVGPainter.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-svg/ios/ViewManagers/RNSVGSvgViewManager.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-svg/ios/ViewManagers/RNSVGSvgViewManager.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-vector-icons/android/src/main/java/com/oblador/vectoricons/VectorIconsPackage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-vector-icons/dist/MaterialIcons.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-vector-icons/dist/glyphmaps/Octicons.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-vector-icons/glyphmaps/Octicons.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/ansi-regex/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/ART/ARTGroup.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/ART/ARTGroup.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/ART/ViewManagers/ARTSurfaceViewManager.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/ART/ViewManagers/ARTSurfaceViewManager.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Alert/Alert.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/BatchedBridge/__tests__/MessageQueue-test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Components/ProgressViewIOS/ProgressViewIOS.android.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Components/RefreshControl/RefreshControl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Components/Touchable/__tests__/__snapshots__/TouchableHighlight-test.js.snap" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Core/Devtools/symbolicateStackTrace.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Experimental/WindowedListView.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Image/ImageResizeMode.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Inspector/InspectorPanel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Interaction/__tests__/InteractionMixin-test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Lists/__tests__/FlatList-test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Lists/__tests__/__snapshots__/FlatList-test.js.snap" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/RCTTest/FBSnapshotTestCase/UIImage+Compare.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/RCTTest/FBSnapshotTestCase/UIImage+Compare.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Renderer/shims/ReactTypes.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/StyleSheet/StyleSheetTypes.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Text/RCTTextInput.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Utilities/BackHandler.android.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Utilities/HMRLoadingView.ios.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/Utilities/infoLog.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/Libraries/react-native/react-native-interface.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/React/Base/RCTTouchHandler.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/React/Base/RCTTouchHandler.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/React/Modules/RCTAccessibilityManager.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/React/Views/RCTScrollView.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/React/Views/RCTTabBar.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/React/Views/RCTTabBar.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/idledetection/BUCK" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/js/DatePickerDialogTestModule.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/jni/BUCK" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/jni/fbjni.pro" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/CallbackImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReactContextBaseJavaModule.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/Systrace.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DevInternalSettings.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/flat/RCTModalHostManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/flat/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/flat/TypefaceCache.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/storage/AsyncLocalStorageUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/touch/ReactHitSlopView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/YogaNodePool.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/events/RCTEventEmitter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/FpsListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/ReactHorizontalScrollContainerView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/swiperefresh/ReactSwipeRefreshLayout.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/frescosupport/FrescoBasedReactTextInlineImageShadowNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/yoga/YogaDimension.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/yoga/YogaUnit.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/include/fb/fbjni/References-forward.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/packagerconnection/SamplingProfilerJniMethod.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/libglog.so" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/x86/libprivatedata.so" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/third-party/boost/Android.mk" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/layout/dev_loading_view.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactCommon/cxxreact/JSIndexedRAMBundle.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactCommon/cxxreact/JsArgumentHelpers.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/local-cli/core/__tests__/android/findAndroidAppFolder.spec.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/local-cli/core/android/findAndroidAppFolder.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/local-cli/core/windows/findPackageClassName.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/local-cli/eject/eject.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/local-cli/link/__fixtures__/android/0.17/MainActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/local-cli/server/util/__tests__/getInverseDependencies-test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/local-cli/server/util/messageSocket.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/local-cli/util/Config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/local-cli/util/assertRequiredOptions.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/node_modules/.bin/rimraf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/node_modules/ansi-styles/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-native/node_modules/pretty-format/LICENSE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/lib-rn/routers/validateScreenOptions.js.flow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/lib-rn/views/Header/HeaderBackButton.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/lib-rn/views/assets/back-icon@2x.android.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/lib/StateUtils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/lib/navigators/NavigatorTypes.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/lib/views/Drawer/DrawerScreen.js.flow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/lib/views/TabView/TabView.js.flow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/lib/views/Transitioner.js.flow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/lib/views/assets/back-icon@4x.ios.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/src/navigators/__tests__/DrawerNavigator-test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/src/routers/TabRouter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/src/views/Header/Header.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-navigation/src/views/assets/back-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-redux/es/connect/mapStateToProps.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/readable-stream/CONTRIBUTING.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/regenerate/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/regenerator-transform/lib/hoist.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/request-progress/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/request-progress/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/redirect.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/response-time/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/rest-facade/src/exceptions/APIError.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/retry/test/integration/test-timeouts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/send/node_modules/http-errors/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/send/node_modules/mime/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/serve-index/public/icons/page_white_go.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/serve-static/node_modules/mime/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/serve-static/node_modules/mime/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/serve-static/node_modules/range-parser/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/serve-static/node_modules/statuses/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/simple-plist/node_modules/base64-js/test/url-safe.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/slide/lib/bind-actor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/sntp/node_modules/hoek/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/sntp/test/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/spdx-expression-parse/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/sshpk/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-buffers/coverage/lcov-report/prettify.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/stringstream/stringstream.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/strip-bom/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/superagent/superagent.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/thenify/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/to-fast-properties/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/tr46/lib/mappingTable.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/traverse/test/circular.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/tree-kill/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/yargs/lib/validation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ultron/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/universalify/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/upper-case-first/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/util-deprecate/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/uuid/LICENSE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/verror/node_modules/extsprintf/jsl.node.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/very-fast-args/bench/bench.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/whatwg-fetch/fetch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/wide-align/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/win-release/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/win-release/license" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/win-release/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/winchan/test/cases/use-existing-popup/run.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/worker-farm/examples/pi/calc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/ws/lib/Sender.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xcode/lib/pbxProject.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/binaries/windows/7z1602-extra/Far/far7z.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/binaries/windows/7z1602-extra/x64/7zxa.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/build/ApiV2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/build/Env.js.flow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/build/ProjectSettings.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/build/__integration_tests__/UserManager-test.js.flow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/build/__sourcemaps__/__integration_tests__/Simulator-test.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/build/__sourcemaps__/project/ProjectUtils.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/build/__sourcemaps__/project/templates/exp.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/build/detach/IosAssetArchive.js.flow" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/build/state/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/caches/versions.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/node_modules/bluebird/js/release/any.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/node_modules/bluebird/js/release/debuggability.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/node_modules/bluebird/js/release/thenables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/node_modules/fs-extra/docs/readJson-sync.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/node_modules/fs-extra/lib/mkdirs/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdl/node_modules/plist/.jshintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDocument.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/xregexp/tests/tests.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/y18n/README.md" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+    <list default="true" id="35acb99d-5189-408e-87c4-c7cdbbb8b278" name="Default" comment="core(gitignore file): remove node modules from git ignore file">
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/navigation.js" />
+      <change beforePath="$PROJECT_DIR$/.expo/packager-info.json" afterPath="$PROJECT_DIR$/.expo/packager-info.json" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/absolute-path/test/index.js" afterPath="$PROJECT_DIR$/node_modules/absolute-path/test/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/analytics-node/analytics-node.js" afterPath="$PROJECT_DIR$/node_modules/analytics-node/analytics-node.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/lib/Sheet.Cascade.js" afterPath="$PROJECT_DIR$/node_modules/art/lib/Sheet.Cascade.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/modes/script/font.js" afterPath="$PROJECT_DIR$/node_modules/art/modes/script/font.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/parsers/svg/colors.js" afterPath="$PROJECT_DIR$/node_modules/art/parsers/svg/colors.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/parsers/svg/core.js" afterPath="$PROJECT_DIR$/node_modules/art/parsers/svg/core.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/parsers/svg/externals.js" afterPath="$PROJECT_DIR$/node_modules/art/parsers/svg/externals.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/parsers/svg/fonts.js" afterPath="$PROJECT_DIR$/node_modules/art/parsers/svg/fonts.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/parsers/svg/markers.js" afterPath="$PROJECT_DIR$/node_modules/art/parsers/svg/markers.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/parsers/svg/paints.js" afterPath="$PROJECT_DIR$/node_modules/art/parsers/svg/paints.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/parsers/svg/shapes.js" afterPath="$PROJECT_DIR$/node_modules/art/parsers/svg/shapes.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/parsers/svg/styles.js" afterPath="$PROJECT_DIR$/node_modules/art/parsers/svg/styles.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/art/parsers/svg/text.js" afterPath="$PROJECT_DIR$/node_modules/art/parsers/svg/text.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.d.ts" afterPath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.d.ts" />
-      <change beforePath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.js" afterPath="$PROJECT_DIR$/node_modules/big-integer/BigInteger.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/big-integer/LICENSE" afterPath="$PROJECT_DIR$/node_modules/big-integer/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/big-integer/README.md" afterPath="$PROJECT_DIR$/node_modules/big-integer/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/big-integer/package.json" afterPath="$PROJECT_DIR$/node_modules/big-integer/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/big-integer/tsconfig.json" afterPath="$PROJECT_DIR$/node_modules/big-integer/tsconfig.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/color-name/.npmignore" afterPath="$PROJECT_DIR$/node_modules/color-name/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/color-name/LICENSE" afterPath="$PROJECT_DIR$/node_modules/color-name/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/color-name/README.md" afterPath="$PROJECT_DIR$/node_modules/color-name/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/color-name/index.js" afterPath="$PROJECT_DIR$/node_modules/color-name/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/color-name/test.js" afterPath="$PROJECT_DIR$/node_modules/color-name/test.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/History.md" afterPath="$PROJECT_DIR$/node_modules/component-emitter/History.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/LICENSE" afterPath="$PROJECT_DIR$/node_modules/component-emitter/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/Readme.md" afterPath="$PROJECT_DIR$/node_modules/component-emitter/Readme.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/index.js" afterPath="$PROJECT_DIR$/node_modules/component-emitter/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/package.json" afterPath="$PROJECT_DIR$/node_modules/component-emitter/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cookie/LICENSE" afterPath="$PROJECT_DIR$/node_modules/cookie/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cookie/README.md" afterPath="$PROJECT_DIR$/node_modules/cookie/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cookie/index.js" afterPath="$PROJECT_DIR$/node_modules/cookie/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cookie/package.json" afterPath="$PROJECT_DIR$/node_modules/cookie/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cryptiles/.npmignore" afterPath="$PROJECT_DIR$/node_modules/cryptiles/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cryptiles/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/cryptiles/.travis.yml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dateformat/.npmignore" afterPath="$PROJECT_DIR$/node_modules/dateformat/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dateformat/.vs/ProjectSettings.json" afterPath="$PROJECT_DIR$/node_modules/dateformat/.vs/ProjectSettings.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dateformat/.vs/config/applicationhost.config" afterPath="$PROJECT_DIR$/node_modules/dateformat/.vs/config/applicationhost.config" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dateformat/LICENSE" afterPath="$PROJECT_DIR$/node_modules/dateformat/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dateformat/Readme.md" afterPath="$PROJECT_DIR$/node_modules/dateformat/Readme.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/dateformat/lib/dateformat.js" afterPath="$PROJECT_DIR$/node_modules/dateformat/lib/dateformat.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-error/.npmignore" afterPath="$PROJECT_DIR$/node_modules/es6-error/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/expect/build-es5/index.js" afterPath="$PROJECT_DIR$/node_modules/expect/build-es5/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/expo/node_modules/websql/.jshintrc" afterPath="$PROJECT_DIR$/node_modules/expo/node_modules/websql/.jshintrc" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/.npmignore" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/cryptiles/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/.npmignore" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/.travis.yml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/README.md" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/bower.json" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/bower.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/component.json" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/component.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/dist/client.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/dist/client.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/example/usage.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/example/usage.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/browser.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/browser.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/client.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/client.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/crypto.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/crypto.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/server.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/server.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/lib/utils.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/browser.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/browser.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/client.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/client.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/crypto.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/crypto.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/index.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/readme.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/readme.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/server.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/server.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/uri.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/uri.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/utils.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/test/utils.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/jodid25519/LICENSE" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/jodid25519/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/README.md" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/hyper-schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/json-ref" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/json-ref" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/links" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/links" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-00/schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/hyper-schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/json-ref" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/json-ref" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/links" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/links" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-01/schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/hyper-schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/json-ref" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/json-ref" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/links" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/links" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-02/schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/address" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/address" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/calendar" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/calendar" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/card" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/card" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/geo" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/geo" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/interfaces" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/examples/interfaces" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/hyper-schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/json-ref" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/json-ref" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/links" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/links" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-03/schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/hyper-schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/links" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/links" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/schema" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-04/schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-zyp-json-schema-04.xml" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/draft-zyp-json-schema-04.xml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/lib/links.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/lib/links.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/lib/validate.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/lib/validate.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/test/tests.js" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/json-schema/test/tests.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/.npmignore" afterPath="$PROJECT_DIR$/node_modules/hawk/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/hawk/.travis.yml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/README.md" afterPath="$PROJECT_DIR$/node_modules/hawk/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/bower.json" afterPath="$PROJECT_DIR$/node_modules/hawk/bower.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/component.json" afterPath="$PROJECT_DIR$/node_modules/hawk/component.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/dist/client.js" afterPath="$PROJECT_DIR$/node_modules/hawk/dist/client.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/example/usage.js" afterPath="$PROJECT_DIR$/node_modules/hawk/example/usage.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/lib/browser.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/browser.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/lib/client.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/client.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/lib/crypto.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/crypto.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/lib/server.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/server.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/hawk/lib/utils.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/package.json" afterPath="$PROJECT_DIR$/node_modules/hawk/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/test/browser.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/browser.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/test/client.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/client.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/test/crypto.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/crypto.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/test/index.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/test/readme.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/readme.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/test/server.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/server.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/test/uri.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/uri.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hawk/test/utils.js" afterPath="$PROJECT_DIR$/node_modules/hawk/test/utils.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/isemail/.npmignore" afterPath="$PROJECT_DIR$/node_modules/isemail/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/items/.npmignore" afterPath="$PROJECT_DIR$/node_modules/items/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/js-yaml/node_modules/esprima/dist/esprima.js" afterPath="$PROJECT_DIR$/node_modules/js-yaml/node_modules/esprima/dist/esprima.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/README.md" afterPath="$PROJECT_DIR$/node_modules/json-schema/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/hyper-schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/json-ref" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/json-ref" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/links" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/links" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/hyper-schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/json-ref" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/json-ref" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/links" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/links" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/hyper-schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/json-ref" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/json-ref" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/links" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/links" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/address" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/address" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/calendar" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/calendar" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/card" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/card" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/geo" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/geo" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/interfaces" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/interfaces" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/hyper-schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/json-ref" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/json-ref" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/hyper-schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/hyper-schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/links" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/links" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/schema" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/schema" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-03.xml" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-03.xml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-04.xml" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-04.xml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/lib/links.js" afterPath="$PROJECT_DIR$/node_modules/json-schema/lib/links.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/lib/validate.js" afterPath="$PROJECT_DIR$/node_modules/json-schema/lib/validate.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/package.json" afterPath="$PROJECT_DIR$/node_modules/json-schema/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/test/tests.js" afterPath="$PROJECT_DIR$/node_modules/json-schema/test/tests.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/.npmignore" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/.travis.yml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/LICENSE" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/Makefile" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/Makefile" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/README.md" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/index.js" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/lib/isemail.js" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/lib/isemail.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/package.json" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/test/isemail.js" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/test/isemail.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/test/mocha.opts" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/test/mocha.opts" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/test/tests.json" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/node_modules/isemail/test/tests.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/left-pad/COPYING" afterPath="$PROJECT_DIR$/node_modules/left-pad/COPYING" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lock/.npmignore" afterPath="$PROJECT_DIR$/node_modules/lock/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lock/LICENSE" afterPath="$PROJECT_DIR$/node_modules/lock/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lock/README.md" afterPath="$PROJECT_DIR$/node_modules/lock/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lock/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/lock/index.d.ts" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lock/index.js" afterPath="$PROJECT_DIR$/node_modules/lock/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lock/package.json" afterPath="$PROJECT_DIR$/node_modules/lock/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lock/test/index.js" afterPath="$PROJECT_DIR$/node_modules/lock/test/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lock/test/issue-1.js" afterPath="$PROJECT_DIR$/node_modules/lock/test/issue-1.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lock/test/multi.js" afterPath="$PROJECT_DIR$/node_modules/lock/test/multi.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lottie-react-native/gradlew.bat" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/gradlew.bat" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/gradlew.bat" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/lib/android/gradlew.bat" />
-      <change beforePath="$PROJECT_DIR$/node_modules/merge/LICENSE" afterPath="$PROJECT_DIR$/node_modules/merge/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/merge/README.md" afterPath="$PROJECT_DIR$/node_modules/merge/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/merge/merge.js" afterPath="$PROJECT_DIR$/node_modules/merge/merge.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/merge/merge.min.js" afterPath="$PROJECT_DIR$/node_modules/merge/merge.min.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/merge/package.json" afterPath="$PROJECT_DIR$/node_modules/merge/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/noop-fn/.editorconfig" afterPath="$PROJECT_DIR$/node_modules/noop-fn/.editorconfig" />
-      <change beforePath="$PROJECT_DIR$/node_modules/noop-fn/.npmignore" afterPath="$PROJECT_DIR$/node_modules/noop-fn/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/noop-fn/LICENSE" afterPath="$PROJECT_DIR$/node_modules/noop-fn/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/parse5/CHANGELOG.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/LICENSE" afterPath="$PROJECT_DIR$/node_modules/parse5/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/README.md" afterPath="$PROJECT_DIR$/node_modules/parse5/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/index.js" afterPath="$PROJECT_DIR$/node_modules/parse5/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/common/doctype.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/common/doctype.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/common/foreign_content.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/common/foreign_content.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/common/html.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/common/html.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/common/unicode.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/common/unicode.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/common/utils.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/common/utils.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/jsdom/jsdom_parser.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/jsdom/jsdom_parser.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/jsdom/parsing_unit.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/jsdom/parsing_unit.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/serialization/serializer.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/serialization/serializer.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/simple_api/simple_api_parser.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/simple_api/simple_api_parser.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/simple_api/tokenizer_proxy.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/simple_api/tokenizer_proxy.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/tokenization/location_info_mixin.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/tokenization/location_info_mixin.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/tokenization/named_entity_trie.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/tokenization/named_entity_trie.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/tokenization/preprocessor.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/tokenization/preprocessor.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/tokenization/tokenizer.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/tokenization/tokenizer.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/tree_adapters/default.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/tree_adapters/default.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/tree_adapters/htmlparser2.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/tree_adapters/htmlparser2.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/tree_construction/formatting_element_list.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/tree_construction/formatting_element_list.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/tree_construction/location_info_mixin.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/tree_construction/location_info_mixin.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/tree_construction/open_element_stack.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/tree_construction/open_element_stack.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/lib/tree_construction/parser.js" afterPath="$PROJECT_DIR$/node_modules/parse5/lib/tree_construction/parser.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/parse5/package.json" afterPath="$PROJECT_DIR$/node_modules/parse5/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pause/LICENSE" afterPath="$PROJECT_DIR$/node_modules/pause/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/plist/dist/plist-parse.js" afterPath="$PROJECT_DIR$/node_modules/plist/dist/plist-parse.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/plist/dist/plist.js" afterPath="$PROJECT_DIR$/node_modules/plist/dist/plist.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pretty-format/build-es5/index.js" afterPath="$PROJECT_DIR$/node_modules/pretty-format/build-es5/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/androidJavadocsJar/MANIFEST.MF" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/androidJavadocsJar/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/androidSourcesJar/MANIFEST.MF" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/android/build/tmp/androidSourcesJar/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-native-maps/gradlew.bat" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/gradlew.bat" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/tmp/androidJavadocsJar/MANIFEST.MF" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/tmp/androidJavadocsJar/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/tmp/androidSourcesJar/MANIFEST.MF" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/tmp/androidSourcesJar/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/gradlew.bat" afterPath="$PROJECT_DIR$/node_modules/react-native-maps/lib/android/gradlew.bat" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-native/local-cli/templates/HelloWorld/android/gradlew.bat" afterPath="$PROJECT_DIR$/node_modules/react-native/local-cli/templates/HelloWorld/android/gradlew.bat" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-proxy/dist/ReactProxy.js" afterPath="$PROJECT_DIR$/node_modules/react-proxy/dist/ReactProxy.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regjsgen/LICENSE.txt" afterPath="$PROJECT_DIR$/node_modules/regjsgen/LICENSE.txt" />
-      <change beforePath="$PROJECT_DIR$/node_modules/regjsgen/package.json" afterPath="$PROJECT_DIR$/node_modules/regjsgen/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/request/node_modules/cryptiles/.npmignore" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/cryptiles/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/.npmignore" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/request/node_modules/sntp/.npmignore" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/sntp/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/serve-index/HISTORY.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/LICENSE" afterPath="$PROJECT_DIR$/node_modules/serve-index/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/README.md" afterPath="$PROJECT_DIR$/node_modules/serve-index/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/index.js" afterPath="$PROJECT_DIR$/node_modules/serve-index/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/package.json" afterPath="$PROJECT_DIR$/node_modules/serve-index/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/public/directory.html" afterPath="$PROJECT_DIR$/node_modules/serve-index/public/directory.html" />
-      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/public/style.css" afterPath="$PROJECT_DIR$/node_modules/serve-index/public/style.css" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-plist/node_modules/plist/dist/plist-parse.js" afterPath="$PROJECT_DIR$/node_modules/simple-plist/node_modules/plist/dist/plist-parse.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-plist/node_modules/plist/dist/plist.js" afterPath="$PROJECT_DIR$/node_modules/simple-plist/node_modules/plist/dist/plist.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stream-buffers/README.md" afterPath="$PROJECT_DIR$/node_modules/stream-buffers/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stream-buffers/lib/constants.js" afterPath="$PROJECT_DIR$/node_modules/stream-buffers/lib/constants.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stream-buffers/lib/readable_streambuffer.js" afterPath="$PROJECT_DIR$/node_modules/stream-buffers/lib/readable_streambuffer.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stream-buffers/lib/streambuffer.js" afterPath="$PROJECT_DIR$/node_modules/stream-buffers/lib/streambuffer.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stream-buffers/lib/writable_streambuffer.js" afterPath="$PROJECT_DIR$/node_modules/stream-buffers/lib/writable_streambuffer.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.travis.yml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/LICENSE" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/README.md" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/index.js" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/package.json" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/test/index.js" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/test/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/websql/.jshintrc" afterPath="$PROJECT_DIR$/node_modules/websql/.jshintrc" />
-      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-url/lib/url-state-machine.js" afterPath="$PROJECT_DIR$/node_modules/whatwg-url/lib/url-state-machine.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/window-size/LICENSE-MIT" afterPath="$PROJECT_DIR$/node_modules/window-size/LICENSE-MIT" />
-      <change beforePath="$PROJECT_DIR$/node_modules/window-size/README.md" afterPath="$PROJECT_DIR$/node_modules/window-size/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/window-size/index.js" afterPath="$PROJECT_DIR$/node_modules/window-size/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xdl/node_modules/plist/dist/plist-parse.js" afterPath="$PROJECT_DIR$/node_modules/xdl/node_modules/plist/dist/plist-parse.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xdl/node_modules/plist/dist/plist.js" afterPath="$PROJECT_DIR$/node_modules/xdl/node_modules/plist/dist/plist.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmldom/__package__.js" afterPath="$PROJECT_DIR$/node_modules/xmldom/__package__.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmldom/dom-parser.js" afterPath="$PROJECT_DIR$/node_modules/xmldom/dom-parser.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmldom/package.json" afterPath="$PROJECT_DIR$/node_modules/xmldom/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmldom/sax.js" afterPath="$PROJECT_DIR$/node_modules/xmldom/sax.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xregexp/.npmignore" afterPath="$PROJECT_DIR$/node_modules/xregexp/.npmignore" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xregexp/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/node_modules/xregexp/MIT-LICENSE.txt" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xregexp/README.md" afterPath="$PROJECT_DIR$/node_modules/xregexp/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xregexp/package.json" afterPath="$PROJECT_DIR$/node_modules/xregexp/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xregexp/tests/node-qunit.js" afterPath="$PROJECT_DIR$/node_modules/xregexp/tests/node-qunit.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xregexp/xregexp-all.js" afterPath="$PROJECT_DIR$/node_modules/xregexp/xregexp-all.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/yesno/README.md" afterPath="$PROJECT_DIR$/node_modules/yesno/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/yesno/yesno.js" afterPath="$PROJECT_DIR$/node_modules/yesno/yesno.js" />
+      <change beforePath="$PROJECT_DIR$/App.js" afterPath="$PROJECT_DIR$/App.js" />
+      <change beforePath="$PROJECT_DIR$/components/DeckView.js" afterPath="$PROJECT_DIR$/components/DeckView.js" />
+      <change beforePath="$PROJECT_DIR$/components/EntryDeck.js" afterPath="$PROJECT_DIR$/components/EntryDeck.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -1052,15 +20,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.55253625">
+    <splitter split-orientation="horizontal" split-proportion="0.6764214">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/App.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-                  <folding />
+                <state relative-caret-position="409">
+                  <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="navigation.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/utils/navigation.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="220">
+                  <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+                  <folding>
+                    <element signature="e#0#46#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -1068,24 +50,10 @@
           <file leaf-file-name="EntryDeck.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/components/EntryDeck.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="440">
-                  <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+                <state relative-caret-position="540">
+                  <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
                   <folding>
                     <element signature="e#0#39#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="EntryQuestions.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/components/EntryQuestions.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="600">
-                  <caret line="35" column="47" lean-forward="false" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
-                  <folding>
-                    <element signature="e#0#39#0" expanded="true" />
-                    <marker date="1513872264000" expanded="true" signature="2124:2173" ph="..." />
-                    <marker date="1513872264000" expanded="false" signature="2347:2366" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -1094,8 +62,8 @@
           <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/utils/api.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="40">
-                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+                <state relative-caret-position="160">
+                  <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#44#0" expanded="true" />
                   </folding>
@@ -1103,33 +71,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="DeckList.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/components/DeckList.js">
+          <file leaf-file-name="DeckView.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/DeckView.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="680">
-                  <caret line="42" column="49" lean-forward="false" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+                <state relative-caret-position="40">
+                  <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="DeckView.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/components/DeckView.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="260">
-                  <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-                  <folding>
-                    <element signature="e#0#39#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="QuizView.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="QuizView.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/components/QuizView.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="20">
-                  <caret line="61" column="11" lean-forward="false" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+                <state relative-caret-position="396">
+                  <caret line="74" column="25" lean-forward="false" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -1150,21 +106,9 @@
           <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/actions/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1060">
-                  <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+                <state relative-caret-position="442">
+                  <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/reducers/index.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-                  <folding>
-                    <element signature="e#0#112#0" expanded="true" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -1172,32 +116,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/styles/index.js">
+        <leaf>
+          <file leaf-file-name="DeckList.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/components/DeckList.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="620">
-                  <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="helper.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/utils/helper.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="468">
-                  <caret line="92" column="50" lean-forward="false" selection-start-line="92" selection-start-column="50" selection-end-line="92" selection-end-column="50" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="200">
-                  <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+                <state relative-caret-position="240">
+                  <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
                   <folding />
                 </state>
               </provider>
@@ -1228,6 +152,7 @@
       <find>componentWill</find>
       <find>AsyncStorage</find>
       <find>console.log</find>
+      <find>gate('DeckView'</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -1242,19 +167,20 @@
         <option value="$PROJECT_DIR$/utils/api.js" />
         <option value="$PROJECT_DIR$/components/EntryDetail.js" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/components/EntryDeck.js" />
         <option value="$PROJECT_DIR$/components/CardView.js" />
         <option value="$PROJECT_DIR$/styles/index.js" />
         <option value="$PROJECT_DIR$/components/EntryQuestions.js" />
-        <option value="$PROJECT_DIR$/components/DeckView.js" />
-        <option value="$PROJECT_DIR$/components/DeckList.js" />
-        <option value="$PROJECT_DIR$/App.js" />
-        <option value="$PROJECT_DIR$/actions/index.js" />
         <option value="$PROJECT_DIR$/reducers/index.js" />
         <option value="$PROJECT_DIR$/components/FinalView.js" />
-        <option value="$PROJECT_DIR$/components/QuizView.js" />
         <option value="$PROJECT_DIR$/utils/helper.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/actions/index.js" />
+        <option value="$PROJECT_DIR$/components/EntryDeck.js" />
+        <option value="$PROJECT_DIR$/components/DeckView.js" />
+        <option value="$PROJECT_DIR$/components/QuizView.js" />
+        <option value="$PROJECT_DIR$/components/DeckList.js" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/utils/navigation.js" />
       </list>
     </option>
   </component>
@@ -1304,6 +230,11 @@
               <item name="flashcards" type="b2602c69:ProjectViewProjectNode" />
               <item name="flashcards" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="flashcards" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flashcards" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1347,7 +278,7 @@
       <workItem from="1513933382013" duration="17492000" />
       <workItem from="1514304332749" duration="5483000" />
       <workItem from="1514534676418" duration="7000" />
-      <workItem from="1514534704371" duration="760000" />
+      <workItem from="1514534704371" duration="5556000" />
     </task>
     <task id="LOCAL-00001" summary="core(REDUX &amp; AsyncStore): Add views to enter questions and decks">
       <created>1513701907300</created>
@@ -1395,20 +326,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144380000" />
+    <option name="totallyTimeSpent" value="149176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22198732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15715292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33857316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25513905" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1418,7 +351,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1443,21 +375,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/components/DeckList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="76" column="84" lean-forward="false" selection-start-line="76" selection-start-column="84" selection-end-line="76" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/DeckView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1491,7 +413,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1527,9 +451,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1548,7 +470,7 @@
         <state relative-caret-position="600">
           <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
             <marker date="1513872264000" expanded="true" signature="2124:2173" ph="..." />
             <marker date="1513872264000" expanded="false" signature="2347:2366" ph="..." />
           </folding>
@@ -1583,7 +505,7 @@
         <state relative-caret-position="80">
           <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
-            <element signature="e#0#112#0" expanded="true" />
+            <element signature="e#0#112#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1600,7 +522,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1619,7 +543,7 @@
         <state relative-caret-position="480">
           <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
             <marker date="1513872264000" expanded="true" signature="2124:2173" ph="..." />
             <marker date="1513872264000" expanded="false" signature="2347:2366" ph="..." />
           </folding>
@@ -1648,9 +572,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="38" column="32" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1685,7 +607,7 @@
         <state relative-caret-position="160">
           <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
-            <element signature="e#0#112#0" expanded="true" />
+            <element signature="e#0#112#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1702,7 +624,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
           <caret line="33" column="27" lean-forward="false" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-          <folding />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1741,22 +665,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/EntryDeck.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/EntryQuestions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="35" column="47" lean-forward="false" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
             <marker date="1513872264000" expanded="true" signature="2124:2173" ph="..." />
             <marker date="1513872264000" expanded="false" signature="2347:2366" ph="..." />
           </folding>
@@ -1771,16 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/CardView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="991">
@@ -1788,37 +692,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/DeckView.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/toggle-switch-react-native/ToggleSwitch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="-531">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="92" column="50" lean-forward="false" selection-start-line="92" selection-start-column="50" selection-end-line="92" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/DeckList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="42" column="49" lean-forward="false" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actions/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1060">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1827,7 +738,33 @@
         <state relative-caret-position="360">
           <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding>
-            <element signature="e#0#112#0" expanded="true" />
+            <element signature="e#0#112#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/DeckView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/EntryDeck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1842,42 +779,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/QuizView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="61" column="11" lean-forward="false" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+        <state relative-caret-position="396">
+          <caret line="74" column="25" lean-forward="false" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/helper.js">
+    <entry file="file://$PROJECT_DIR$/components/DeckList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="92" column="50" lean-forward="false" selection-start-line="92" selection-start-column="50" selection-end-line="92" selection-end-column="50" />
+        <state relative-caret-position="240">
+          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/toggle-switch-react-native/ToggleSwitch.js">
+    <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-531">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="409">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/utils/navigation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="220">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

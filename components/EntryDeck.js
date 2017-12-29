@@ -12,7 +12,7 @@ class EntryDeck extends Component {
     }
 
     static navigationOptions = ({ navigation }) => ({
-        title: `${navigation.state.params.title}`
+        title: `New Deck`
     });
 
     onSubmit = () => {
@@ -26,7 +26,11 @@ class EntryDeck extends Component {
             return
         }
         this.props.addEntry({entry,key});
-        this.props.navigation.goBack();
+        this.props.navigation.navigate('DeckView',{
+            title: key,
+            deckName: key,
+            cards: `0 QUESTIONS`
+        })
     };
     render() {
         return (
@@ -38,7 +42,6 @@ class EntryDeck extends Component {
                 <Text style={styles.textHeader}>
                     What name would you like to give it?
                 </Text>
-
                 <KeyboardAvoidingView behavior='padding' style={styles.container}>
                     <TextInput
                         style={styles.newDeckInput}
