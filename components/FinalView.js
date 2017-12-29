@@ -40,7 +40,7 @@ class FinalView extends Component {
                     </TouchableOpacity>
                     <TouchableOpacity
                         style={styles.secondaryButton}
-                        onPress={() => this.props.navigation.navigate('DeckView',{deckName:this.props.navigation.state.params.deckName})}>
+                        onPress={() => this.props.navigation.goBack()}>
                         <Text style={styles.buttonText}>Back to 'Deck'</Text>
                     </TouchableOpacity>
                 </View>

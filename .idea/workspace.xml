@@ -4,13 +4,7 @@
     <list default="true" id="35acb99d-5189-408e-87c4-c7cdbbb8b278" name="Default" comment="core(gitignore file): remove node modules from git ignore file">
       <change beforePath="$PROJECT_DIR$/.expo/packager-info.json" afterPath="$PROJECT_DIR$/.expo/packager-info.json" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/components/CardView.js" afterPath="$PROJECT_DIR$/components/CardView.js" />
-      <change beforePath="$PROJECT_DIR$/components/DeckList.js" afterPath="$PROJECT_DIR$/components/DeckList.js" />
-      <change beforePath="$PROJECT_DIR$/components/DeckView.js" afterPath="$PROJECT_DIR$/components/DeckView.js" />
-      <change beforePath="$PROJECT_DIR$/components/EntryDeck.js" afterPath="$PROJECT_DIR$/components/EntryDeck.js" />
-      <change beforePath="$PROJECT_DIR$/components/EntryQuestions.js" afterPath="$PROJECT_DIR$/components/EntryQuestions.js" />
-      <change beforePath="$PROJECT_DIR$/components/QuizView.js" afterPath="$PROJECT_DIR$/components/QuizView.js" />
-      <change beforePath="$PROJECT_DIR$/reducers/index.js" afterPath="$PROJECT_DIR$/reducers/index.js" />
+      <change beforePath="$PROJECT_DIR$/components/FinalView.js" afterPath="$PROJECT_DIR$/components/FinalView.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,11 +30,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="CardView.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="CardView.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/components/CardView.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="402">
-                  <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+                  <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -52,7 +46,7 @@
             <entry file="file://$PROJECT_DIR$/styles/index.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="2967">
-                  <caret line="153" column="6" lean-forward="true" selection-start-line="153" selection-start-column="6" selection-end-line="153" selection-end-column="6" />
+                  <caret line="153" column="6" lean-forward="false" selection-start-line="153" selection-start-column="6" selection-end-line="153" selection-end-column="6" />
                   <folding>
                     <element signature="e#0#52#0" expanded="true" />
                   </folding>
@@ -88,7 +82,7 @@
             <entry file="file://$PROJECT_DIR$/components/EntryDeck.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="-611">
-                  <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+                  <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
                   <folding>
                     <element signature="e#0#39#0" expanded="true" />
                   </folding>
@@ -100,7 +94,7 @@
             <entry file="file://$PROJECT_DIR$/components/QuizView.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="432">
-                  <caret line="136" column="0" lean-forward="true" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+                  <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -112,7 +106,7 @@
             <entry file="file://$PROJECT_DIR$/components/DeckView.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="291">
-                  <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+                  <caret line="73" column="1" lean-forward="false" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
                   <folding>
                     <element signature="e#0#39#0" expanded="true" />
                   </folding>
@@ -120,12 +114,14 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="FinalView.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="FinalView.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/components/FinalView.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-671">
-                  <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-                  <folding />
+                <state relative-caret-position="230">
+                  <caret line="42" column="69" lean-forward="false" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+                  <folding>
+                    <element signature="e#0#39#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -134,7 +130,7 @@
             <entry file="file://$PROJECT_DIR$/components/EntryQuestions.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="329">
-                  <caret line="64" column="12" lean-forward="true" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+                  <caret line="64" column="12" lean-forward="false" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
                   <folding>
                     <marker date="1514574325000" expanded="true" signature="2124:2173" ph="..." />
                     <marker date="1514574325000" expanded="false" signature="2347:2366" ph="..." />
@@ -161,7 +157,7 @@
             <entry file="file://$PROJECT_DIR$/reducers/index.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="80">
-                  <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+                  <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
@@ -208,7 +204,6 @@
         <option value="$PROJECT_DIR$/utils/api.js" />
         <option value="$PROJECT_DIR$/components/EntryDetail.js" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/components/FinalView.js" />
         <option value="$PROJECT_DIR$/utils/helper.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/actions/index.js" />
@@ -223,6 +218,7 @@
         <option value="$PROJECT_DIR$/components/EntryQuestions.js" />
         <option value="$PROJECT_DIR$/components/DeckList.js" />
         <option value="$PROJECT_DIR$/components/CardView.js" />
+        <option value="$PROJECT_DIR$/components/FinalView.js" />
       </list>
     </option>
   </component>
@@ -341,7 +337,7 @@
       <workItem from="1514304332749" duration="5483000" />
       <workItem from="1514534676418" duration="7000" />
       <workItem from="1514534704371" duration="7575000" />
-      <workItem from="1514573927046" duration="1196000" />
+      <workItem from="1514573927046" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="core(REDUX &amp; AsyncStore): Add views to enter questions and decks">
       <created>1513701907300</created>
@@ -399,11 +395,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514559468464</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="core(redux): do not mapDispatchToProps">
+      <created>1514575767931</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1514575767931</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152391000" />
+    <option name="totallyTimeSpent" value="152527000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -445,7 +448,8 @@
     <MESSAGE value="core(gitignore file): remove node modules from git ignore file" />
     <MESSAGE value="core(functionality): route to DeckView / move nav to separate file" />
     <MESSAGE value="core(colors): move color definitions to a separate file" />
-    <option name="LAST_COMMIT_MESSAGE" value="core(colors): move color definitions to a separate file" />
+    <MESSAGE value="core(redux): do not mapDispatchToProps" />
+    <option name="LAST_COMMIT_MESSAGE" value="core(redux): do not mapDispatchToProps" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -468,7 +472,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -507,7 +513,7 @@
         <state relative-caret-position="40">
           <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -627,7 +633,7 @@
         <state relative-caret-position="60">
           <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -788,7 +794,7 @@
     <entry file="file://$PROJECT_DIR$/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -796,7 +802,7 @@
     <entry file="file://$PROJECT_DIR$/styles/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2967">
-          <caret line="153" column="6" lean-forward="true" selection-start-line="153" selection-start-column="6" selection-end-line="153" selection-end-column="6" />
+          <caret line="153" column="6" lean-forward="false" selection-start-line="153" selection-start-column="6" selection-end-line="153" selection-end-column="6" />
           <folding>
             <element signature="e#0#52#0" expanded="true" />
           </folding>
@@ -808,7 +814,7 @@
         <state relative-caret-position="160">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -826,25 +832,17 @@
     <entry file="file://$PROJECT_DIR$/components/QuizView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="136" column="0" lean-forward="true" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/FinalView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-671">
-          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/EntryQuestions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
-          <caret line="64" column="12" lean-forward="true" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+          <caret line="64" column="12" lean-forward="false" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
           <folding>
             <marker date="1514574325000" expanded="true" signature="2124:2173" ph="..." />
             <marker date="1514574325000" expanded="false" signature="2347:2366" ph="..." />
@@ -855,7 +853,7 @@
     <entry file="file://$PROJECT_DIR$/components/EntryDeck.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-611">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -865,7 +863,7 @@
     <entry file="file://$PROJECT_DIR$/components/DeckView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+          <caret line="73" column="1" lean-forward="false" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -883,9 +881,19 @@
     <entry file="file://$PROJECT_DIR$/components/CardView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
-          <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/FinalView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="42" column="69" lean-forward="false" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
