@@ -6,7 +6,7 @@ Here you will find a link to information about performing common tasks. The most
 # FlashCards
 A react native app for FlashCards assignment @ Udacity course
 
-## Available Scripts
+# Install & Run
 
 If Yarn was installed when the project was initialized, then dependencies will have been installed via Yarn, and you should probably use it to run these commands as well. Unlike dependency installation, command running syntax is identical for Yarn and NPM at the time of this writing.
 
