@@ -61,10 +61,6 @@ class EntryQuestions extends Component {
 
 }
 
-function mapStateToProps (state) {
-    return {
-        decks: state
-    }
-}
+const mapStateToProps = decks => ({ decks });
 
 export default connect(mapStateToProps,{addCard})(EntryQuestions)

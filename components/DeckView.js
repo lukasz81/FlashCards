@@ -73,10 +73,6 @@ class DeckView extends Component {
 
 }
 
-function mapStateToProps (state) {
-    return {
-        decks: state
-    }
-}
+const mapStateToProps = decks => ({ decks });
 
 export default connect(mapStateToProps,null)(DeckView)
